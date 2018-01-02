@@ -1,5 +1,5 @@
-import temp
-print(temp.a+1)
+import RE_test
+print(RE_test.a + 1)
 import sys
 print(sys.modules)
 del sys.modules['temp']
